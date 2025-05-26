@@ -57,12 +57,13 @@ address {
 
 .contacts-link:hover,
 .contacts-link:focus {
-  color: #434455;
+  color: #404bbf;
 }
 
 .page-footer {
   background-color: #2e2f42;
 }
+.footer-logo
 
 .footer-text {
   font-size: 16px; 
@@ -90,7 +91,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #404bbf;
+  background:  #4D5AE5;
   cursor: pointer;
 }
 
@@ -159,15 +160,18 @@ address {
 }
 
 .portfolio {
+  background-color:  #F4F4FD;
 }
 
 .our-portfolio {
 }
 
 .portfolio-list {
+  background-color:  #FFFFFF;
 }
 
 .portfolio-item {
+  
 }
 
 .portfolio-photo {
