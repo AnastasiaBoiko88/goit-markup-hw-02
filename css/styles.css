@@ -177,14 +177,13 @@ address {
 }
 
 .portfolio {
-  background-color: #F5F5F5;
 }
 
 .our-portfolio {
 }
 
 .portfolio-list {
-  
+  background-color: #FFFFFF
 }
 
 .portfolio-item {
@@ -208,4 +207,3 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
