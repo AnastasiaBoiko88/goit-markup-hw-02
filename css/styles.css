@@ -177,17 +177,18 @@ address {
 }
 
 .portfolio {
+  background-color: #FFFFFF;
 }
 
 .our-portfolio {
 }
 
 .portfolio-list {
-  background-color: #FFFFFF
+  
 }
 
 .portfolio-item {
-  
+  background-color: #FFFFFF;
 }
 
 .portfolio-photo {
